@@ -1,0 +1,299 @@
+title	page_url	url	filename	kind	language
+Random Forests	https://www.stat.berkeley.edu/~breiman/papers.html	https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf	random-forests-2001.pdf	paper	en
+XGBoost: A Scalable Tree Boosting System	https://arxiv.org/abs/1603.02754	https://arxiv.org/pdf/1603.02754	xgboost-2016.pdf	paper	en
+TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate	https://arxiv.org/abs/2504.19874	https://arxiv.org/pdf/2504.19874	turboquant-2025.pdf	paper	en
+LoRA: Low-Rank Adaptation of Large Language Models	https://arxiv.org/abs/2106.09685	https://arxiv.org/pdf/2106.09685v2	lora-2021.pdf	paper	en
+QLoRA: Efficient Finetuning of Quantized LLMs	https://arxiv.org/abs/2305.14314	https://arxiv.org/pdf/2305.14314	qlora-2023.pdf	paper	en
+Attention Is All You Need	https://arxiv.org/abs/1706.03762	https://arxiv.org/pdf/1706.03762v7	attention-2017.pdf	paper	en
+Denoising Diffusion Probabilistic Models	https://arxiv.org/abs/2006.11239	https://arxiv.org/pdf/2006.11239v2	ddpm-2020.pdf	paper	en
+A Few Useful Things to Know about Machine Learning	https://homes.cs.washington.edu/~pedrod/papers/cacm12o.pdf	https://homes.cs.washington.edu/~pedrod/papers/cacm12o.pdf	ml-practical-2012.pdf	paper	en
+An Introduction to Variable and Feature Selection	https://www.jmlr.org/papers/v3/guyon03a.html	https://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf	feature-selection-2003.pdf	paper	en
+Regularization Paths for Generalized Linear Models via Coordinate Descent	https://pmc.ncbi.nlm.nih.gov/articles/PMC2929880/	https://web.stanford.edu/~hastie/Papers/glmnet.pdf	glmnet-2010.pdf	paper	en
+A Practical Guide to Support Vector Classification	https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf	https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf	svm-guide-2025.pdf	paper	en
+A Survey of Cross-Validation Procedures for Model Selection	https://arxiv.org/abs/0907.4728	https://arxiv.org/pdf/0907.4728	cross-validation-2010.pdf	paper	en
+A Tutorial on Principal Component Analysis	https://arxiv.org/abs/1404.1100	https://arxiv.org/pdf/1404.1100	pca-tutorial-2014.pdf	paper	en
+k-means++: Few More Steps Yield Constant Approximation	https://arxiv.org/abs/2002.07784	https://arxiv.org/pdf/2002.07784	kmeans-plusplus-2020.pdf	paper	en
+The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets	https://doi.org/10.1371/journal.pone.0118432	https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0118432&type=printable	precision-recall-2015.pdf	paper	en
+Adam: A Method for Stochastic Optimization	https://arxiv.org/abs/1412.6980	https://arxiv.org/pdf/1412.6980	adam-2014.pdf	paper	en
+CatBoost: unbiased boosting with categorical features	https://arxiv.org/abs/1706.09516	https://arxiv.org/pdf/1706.09516	catboost-2018.pdf	paper	en
+On Calibration of Modern Neural Networks	https://arxiv.org/abs/1706.04599	https://arxiv.org/pdf/1706.04599	calibration-2017.pdf	paper	en
+A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification	https://arxiv.org/abs/2107.07511	https://arxiv.org/pdf/2107.07511	conformal-2021.pdf	paper	en
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift	https://arxiv.org/abs/1502.03167	https://arxiv.org/pdf/1502.03167	batchnorm-2015.pdf	paper	en
+Dropout: A Simple Way to Prevent Neural Networks from Overfitting	https://www.jmlr.org/papers/v15/srivastava14a.html	https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf	dropout-2014.pdf	paper	en
+A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise	https://aaai.org/papers/kdd96-037-a-density-based-algorithm-for-discovering-clusters-in-large-spatial-databases-with-noise/	https://cdn.aaai.org/KDD/1996/KDD96-037.pdf	dbscan-1996.pdf	paper	en
+Optimization for Deep Learning	https://arxiv.org/abs/1606.04838	https://arxiv.org/pdf/1606.04838	arxiv-1606.04838.pdf	paper	en
+An overview of gradient descent optimization algorithms	https://arxiv.org/abs/1609.04747	https://arxiv.org/pdf/1609.04747	arxiv-1609.04747.pdf	paper	en
+Group Normalization	https://arxiv.org/abs/1803.08494	https://arxiv.org/pdf/1803.08494	arxiv-1803.08494.pdf	paper	en
+Layer Normalization	https://arxiv.org/abs/1607.06450	https://arxiv.org/pdf/1607.06450	arxiv-1607.06450.pdf	paper	en
+Deep Residual Learning for Image Recognition	https://arxiv.org/abs/1512.03385	https://arxiv.org/pdf/1512.03385	arxiv-1512.03385.pdf	paper	en
+Very Deep Convolutional Networks for Large-Scale Image Recognition	https://arxiv.org/abs/1409.1556	https://arxiv.org/pdf/1409.1556	arxiv-1409.1556.pdf	paper	en
+Going Deeper with Convolutions	https://arxiv.org/abs/1409.4842	https://arxiv.org/pdf/1409.4842	arxiv-1409.4842.pdf	paper	en
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks	https://arxiv.org/abs/1511.06434	https://arxiv.org/pdf/1511.06434	arxiv-1511.06434.pdf	paper	en
+Generative Adversarial Networks	https://arxiv.org/abs/1406.2661	https://arxiv.org/pdf/1406.2661	arxiv-1406.2661.pdf	paper	en
+Auto-Encoding Variational Bayes	https://arxiv.org/abs/1312.6114	https://arxiv.org/pdf/1312.6114	arxiv-1312.6114.pdf	paper	en
+Stochastic Backpropagation and Approximate Inference in Deep Generative Models	https://arxiv.org/abs/1401.4082	https://arxiv.org/pdf/1401.4082	arxiv-1401.4082.pdf	paper	en
+Neural Machine Translation by Jointly Learning to Align and Translate	https://arxiv.org/abs/1409.0473	https://arxiv.org/pdf/1409.0473	arxiv-1409.0473.pdf	paper	en
+Sequence to Sequence Learning with Neural Networks	https://arxiv.org/abs/1409.3215	https://arxiv.org/pdf/1409.3215	arxiv-1409.3215.pdf	paper	en
+Effective Approaches to Attention-based Neural Machine Translation	https://arxiv.org/abs/1508.04025	https://arxiv.org/pdf/1508.04025	arxiv-1508.04025.pdf	paper	en
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding	https://arxiv.org/abs/1810.04805	https://arxiv.org/pdf/1810.04805	arxiv-1810.04805.pdf	paper	en
+RoBERTa: A Robustly Optimized BERT Pretraining Approach	https://arxiv.org/abs/1907.11692	https://arxiv.org/pdf/1907.11692	arxiv-1907.11692.pdf	paper	en
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer	https://arxiv.org/abs/1910.10683	https://arxiv.org/pdf/1910.10683	arxiv-1910.10683.pdf	paper	en
+Language Models are Few-Shot Learners	https://arxiv.org/abs/2005.14165	https://arxiv.org/pdf/2005.14165	arxiv-2005.14165.pdf	paper	en
+Training language models to follow instructions with human feedback	https://arxiv.org/abs/2203.02155	https://arxiv.org/pdf/2203.02155	arxiv-2203.02155.pdf	paper	en
+Training Compute-Optimal Large Language Models	https://arxiv.org/abs/2203.15556	https://arxiv.org/pdf/2203.15556	arxiv-2203.15556.pdf	paper	en
+OPT: Open Pre-trained Transformer Language Models	https://arxiv.org/abs/2205.01068	https://arxiv.org/pdf/2205.01068	arxiv-2205.01068.pdf	paper	en
+PaLM: Scaling Language Modeling with Pathways	https://arxiv.org/abs/2204.02311	https://arxiv.org/pdf/2204.02311	arxiv-2204.02311.pdf	paper	en
+LLaMA: Open and Efficient Foundation Language Models	https://arxiv.org/abs/2302.13971	https://arxiv.org/pdf/2302.13971	arxiv-2302.13971.pdf	paper	en
+Llama 2: Open Foundation and Fine-Tuned Chat Models	https://arxiv.org/abs/2307.09288	https://arxiv.org/pdf/2307.09288	arxiv-2307.09288.pdf	paper	en
+Finetuned Language Models Are Zero-Shot Learners	https://arxiv.org/abs/2109.01652	https://arxiv.org/pdf/2109.01652	arxiv-2109.01652.pdf	paper	en
+Chain-of-Thought Prompting Elicits Reasoning in Large Language Models	https://arxiv.org/abs/2201.11903	https://arxiv.org/pdf/2201.11903	arxiv-2201.11903.pdf	paper	en
+Large Language Models are Zero-Shot Reasoners	https://arxiv.org/abs/2205.11916	https://arxiv.org/pdf/2205.11916	arxiv-2205.11916.pdf	paper	en
+ReAct: Synergizing Reasoning and Acting in Language Models	https://arxiv.org/abs/2210.03629	https://arxiv.org/pdf/2210.03629	arxiv-2210.03629.pdf	paper	en
+Toolformer: Language Models Can Teach Themselves to Use Tools	https://arxiv.org/abs/2302.04761	https://arxiv.org/pdf/2302.04761	arxiv-2302.04761.pdf	paper	en
+Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks	https://arxiv.org/abs/2005.11401	https://arxiv.org/pdf/2005.11401	arxiv-2005.11401.pdf	paper	en
+Dense Passage Retrieval for Open-Domain Question Answering	https://arxiv.org/abs/2004.04906	https://arxiv.org/pdf/2004.04906	arxiv-2004.04906.pdf	paper	en
+ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT	https://arxiv.org/abs/2004.12832	https://arxiv.org/pdf/2004.12832	arxiv-2004.12832.pdf	paper	en
+Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering	https://arxiv.org/abs/2007.01282	https://arxiv.org/pdf/2007.01282	arxiv-2007.01282.pdf	paper	en
+Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks	https://arxiv.org/abs/1908.10084	https://arxiv.org/pdf/1908.10084	arxiv-1908.10084.pdf	paper	en
+Multilingual E5 Text Embeddings: A Technical Report	https://arxiv.org/abs/2402.05672	https://arxiv.org/pdf/2402.05672	arxiv-2402.05672.pdf	paper	en
+Text Embeddings by Weakly-Supervised Contrastive Pre-training	https://arxiv.org/abs/2212.03533	https://arxiv.org/pdf/2212.03533	arxiv-2212.03533.pdf	paper	en
+REALM: Retrieval-Augmented Language Model Pre-Training	https://arxiv.org/abs/2002.08909	https://arxiv.org/pdf/2002.08909	arxiv-2002.08909.pdf	paper	en
+Unsupervised Dense Information Retrieval with Contrastive Learning	https://arxiv.org/abs/2112.09118	https://arxiv.org/pdf/2112.09118	arxiv-2112.09118.pdf	paper	en
+Improving language models by retrieving from trillions of tokens	https://arxiv.org/abs/2112.04426	https://arxiv.org/pdf/2112.04426	arxiv-2112.04426.pdf	paper	en
+Active Retrieval Augmented Generation	https://arxiv.org/abs/2305.06983	https://arxiv.org/pdf/2305.06983	arxiv-2305.06983.pdf	paper	en
+RAGAS: Automated Evaluation of Retrieval Augmented Generation	https://arxiv.org/abs/2309.15217	https://arxiv.org/pdf/2309.15217	arxiv-2309.15217.pdf	paper	en
+Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection	https://arxiv.org/abs/2310.11511	https://arxiv.org/pdf/2310.11511	arxiv-2310.11511.pdf	paper	en
+Corrective Retrieval Augmented Generation	https://arxiv.org/abs/2401.15884	https://arxiv.org/pdf/2401.15884	arxiv-2401.15884.pdf	paper	en
+From Local to Global: A Graph RAG Approach to Query-Focused Summarization	https://arxiv.org/abs/2404.16130	https://arxiv.org/pdf/2404.16130	arxiv-2404.16130.pdf	paper	en
+Retrieval-Augmented Generation for Large Language Models: A Survey	https://arxiv.org/abs/2312.10997	https://arxiv.org/pdf/2312.10997	arxiv-2312.10997.pdf	paper	en
+AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration	https://arxiv.org/abs/2306.00978	https://arxiv.org/pdf/2306.00978	arxiv-2306.00978.pdf	paper	en
+GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers	https://arxiv.org/abs/2210.17323	https://arxiv.org/pdf/2210.17323	arxiv-2210.17323.pdf	paper	en
+SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models	https://arxiv.org/abs/2211.10438	https://arxiv.org/pdf/2211.10438	arxiv-2211.10438.pdf	paper	en
+LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale	https://arxiv.org/abs/2208.07339	https://arxiv.org/pdf/2208.07339	arxiv-2208.07339.pdf	paper	en
+FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness	https://arxiv.org/abs/2205.14135	https://arxiv.org/pdf/2205.14135	arxiv-2205.14135.pdf	paper	en
+FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning	https://arxiv.org/abs/2307.08691	https://arxiv.org/pdf/2307.08691	arxiv-2307.08691.pdf	paper	en
+Efficient Memory Management for Large Language Model Serving with PagedAttention	https://arxiv.org/abs/2309.06180	https://arxiv.org/pdf/2309.06180	arxiv-2309.06180.pdf	paper	en
+An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale	https://arxiv.org/abs/2010.11929	https://arxiv.org/pdf/2010.11929	arxiv-2010.11929.pdf	paper	en
+Swin Transformer: Hierarchical Vision Transformer using Shifted Windows	https://arxiv.org/abs/2103.14030	https://arxiv.org/pdf/2103.14030	arxiv-2103.14030.pdf	paper	en
+SSD: Single Shot MultiBox Detector	https://arxiv.org/abs/1512.02325	https://arxiv.org/pdf/1512.02325	arxiv-1512.02325.pdf	paper	en
+You Only Look Once: Unified, Real-Time Object Detection	https://arxiv.org/abs/1506.02640	https://arxiv.org/pdf/1506.02640	arxiv-1506.02640.pdf	paper	en
+Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks	https://arxiv.org/abs/1506.01497	https://arxiv.org/pdf/1506.01497	arxiv-1506.01497.pdf	paper	en
+Mask R-CNN	https://arxiv.org/abs/1703.06870	https://arxiv.org/pdf/1703.06870	arxiv-1703.06870.pdf	paper	en
+U-Net: Convolutional Networks for Biomedical Image Segmentation	https://arxiv.org/abs/1505.04597	https://arxiv.org/pdf/1505.04597	arxiv-1505.04597.pdf	paper	en
+MobileNetV2: Inverted Residuals and Linear Bottlenecks	https://arxiv.org/abs/1801.04381	https://arxiv.org/pdf/1801.04381	arxiv-1801.04381.pdf	paper	en
+EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks	https://arxiv.org/abs/1905.11946	https://arxiv.org/pdf/1905.11946	arxiv-1905.11946.pdf	paper	en
+A Simple Framework for Contrastive Learning of Visual Representations	https://arxiv.org/abs/2002.05709	https://arxiv.org/pdf/2002.05709	arxiv-2002.05709.pdf	paper	en
+Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning	https://arxiv.org/abs/2006.07733	https://arxiv.org/pdf/2006.07733	arxiv-2006.07733.pdf	paper	en
+Representation Learning with Contrastive Predictive Coding	https://arxiv.org/abs/1807.03748	https://arxiv.org/pdf/1807.03748	arxiv-1807.03748.pdf	paper	en
+Momentum Contrast for Unsupervised Visual Representation Learning	https://arxiv.org/abs/1911.05722	https://arxiv.org/pdf/1911.05722	arxiv-1911.05722.pdf	paper	en
+Learning Transferable Visual Models From Natural Language Supervision	https://arxiv.org/abs/2103.00020	https://arxiv.org/pdf/2103.00020	arxiv-2103.00020.pdf	paper	en
+Emerging Properties in Self-Supervised Vision Transformers	https://arxiv.org/abs/2104.14294	https://arxiv.org/pdf/2104.14294	arxiv-2104.14294.pdf	paper	en
+BEiT: BERT Pre-Training of Image Transformers	https://arxiv.org/abs/2106.08254	https://arxiv.org/pdf/2106.08254	arxiv-2106.08254.pdf	paper	en
+Masked Autoencoders Are Scalable Vision Learners	https://arxiv.org/abs/2111.06377	https://arxiv.org/pdf/2111.06377	arxiv-2111.06377.pdf	paper	en
+Flamingo: a Visual Language Model for Few-Shot Learning	https://arxiv.org/abs/2204.14198	https://arxiv.org/pdf/2204.14198	arxiv-2204.14198.pdf	paper	en
+Visual Instruction Tuning	https://arxiv.org/abs/2304.08485	https://arxiv.org/pdf/2304.08485	arxiv-2304.08485.pdf	paper	en
+BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models	https://arxiv.org/abs/2301.12597	https://arxiv.org/pdf/2301.12597	arxiv-2301.12597.pdf	paper	en
+BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation	https://arxiv.org/abs/2201.12086	https://arxiv.org/pdf/2201.12086	arxiv-2201.12086.pdf	paper	en
+Denoising Diffusion Implicit Models	https://arxiv.org/abs/2010.02502	https://arxiv.org/pdf/2010.02502	arxiv-2010.02502.pdf	paper	en
+Improved Denoising Diffusion Probabilistic Models	https://arxiv.org/abs/2102.09672	https://arxiv.org/pdf/2102.09672	arxiv-2102.09672.pdf	paper	en
+Diffusion Models Beat GANs on Image Synthesis	https://arxiv.org/abs/2105.05233	https://arxiv.org/pdf/2105.05233	arxiv-2105.05233.pdf	paper	en
+High-Resolution Image Synthesis with Latent Diffusion Models	https://arxiv.org/abs/2112.10752	https://arxiv.org/pdf/2112.10752	arxiv-2112.10752.pdf	paper	en
+Classifier-Free Diffusion Guidance	https://arxiv.org/abs/2207.12598	https://arxiv.org/pdf/2207.12598	arxiv-2207.12598.pdf	paper	en
+Score-Based Generative Modeling through Stochastic Differential Equations	https://arxiv.org/abs/2011.13456	https://arxiv.org/pdf/2011.13456	arxiv-2011.13456.pdf	paper	en
+Glow: Generative Flow with Invertible 1x1 Convolutions	https://arxiv.org/abs/1807.03039	https://arxiv.org/pdf/1807.03039	arxiv-1807.03039.pdf	paper	en
+Density estimation using Real NVP	https://arxiv.org/abs/1605.08803	https://arxiv.org/pdf/1605.08803	arxiv-1605.08803.pdf	paper	en
+Variational Inference with Normalizing Flows	https://arxiv.org/abs/1505.05770	https://arxiv.org/pdf/1505.05770	arxiv-1505.05770.pdf	paper	en
+Intriguing properties of neural networks	https://arxiv.org/abs/1312.6199	https://arxiv.org/pdf/1312.6199	arxiv-1312.6199.pdf	paper	en
+Explaining and Harnessing Adversarial Examples	https://arxiv.org/abs/1412.6572	https://arxiv.org/pdf/1412.6572	arxiv-1412.6572.pdf	paper	en
+Towards Deep Learning Models Resistant to Adversarial Attacks	https://arxiv.org/abs/1706.06083	https://arxiv.org/pdf/1706.06083	arxiv-1706.06083.pdf	paper	en
+Why Should I Trust You? Explaining the Predictions of Any Classifier	https://arxiv.org/abs/1602.04938	https://arxiv.org/pdf/1602.04938	arxiv-1602.04938.pdf	paper	en
+A Unified Approach to Interpreting Model Predictions	https://arxiv.org/abs/1705.07874	https://arxiv.org/pdf/1705.07874	arxiv-1705.07874.pdf	paper	en
+Axiomatic Attribution for Deep Networks	https://arxiv.org/abs/1703.01365	https://arxiv.org/pdf/1703.01365	arxiv-1703.01365.pdf	paper	en
+Semi-Supervised Classification with Graph Convolutional Networks	https://arxiv.org/abs/1609.02907	https://arxiv.org/pdf/1609.02907	arxiv-1609.02907.pdf	paper	en
+Inductive Representation Learning on Large Graphs	https://arxiv.org/abs/1706.02216	https://arxiv.org/pdf/1706.02216	arxiv-1706.02216.pdf	paper	en
+Graph Attention Networks	https://arxiv.org/abs/1710.10903	https://arxiv.org/pdf/1710.10903	arxiv-1710.10903.pdf	paper	en
+How Powerful are Graph Neural Networks?	https://arxiv.org/abs/1810.00826	https://arxiv.org/pdf/1810.00826	arxiv-1810.00826.pdf	paper	en
+node2vec: Scalable Feature Learning for Networks	https://arxiv.org/abs/1607.00653	https://arxiv.org/pdf/1607.00653	arxiv-1607.00653.pdf	paper	en
+DeepWalk: Online Learning of Social Representations	https://arxiv.org/abs/1403.6652	https://arxiv.org/pdf/1403.6652	arxiv-1403.6652.pdf	paper	en
+Efficient Estimation of Word Representations in Vector Space	https://arxiv.org/abs/1301.3781	https://arxiv.org/pdf/1301.3781	arxiv-1301.3781.pdf	paper	en
+Distributed Representations of Words and Phrases and their Compositionality	https://arxiv.org/abs/1310.4546	https://arxiv.org/pdf/1310.4546	arxiv-1310.4546.pdf	paper	en
+Deep contextualized word representations	https://arxiv.org/abs/1802.05365	https://arxiv.org/pdf/1802.05365	arxiv-1802.05365.pdf	paper	en
+Distilling the Knowledge in a Neural Network	https://arxiv.org/abs/1503.02531	https://arxiv.org/pdf/1503.02531	arxiv-1503.02531.pdf	paper	en
+Playing Atari with Deep Reinforcement Learning	https://arxiv.org/abs/1312.5602	https://arxiv.org/pdf/1312.5602	arxiv-1312.5602.pdf	paper	en
+Deep Reinforcement Learning with Double Q-learning	https://arxiv.org/abs/1509.06461	https://arxiv.org/pdf/1509.06461	arxiv-1509.06461.pdf	paper	en
+Dueling Network Architectures for Deep Reinforcement Learning	https://arxiv.org/abs/1511.06581	https://arxiv.org/pdf/1511.06581	arxiv-1511.06581.pdf	paper	en
+Proximal Policy Optimization Algorithms	https://arxiv.org/abs/1707.06347	https://arxiv.org/pdf/1707.06347	arxiv-1707.06347.pdf	paper	en
+Trust Region Policy Optimization	https://arxiv.org/abs/1502.05477	https://arxiv.org/pdf/1502.05477	arxiv-1502.05477.pdf	paper	en
+Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor	https://arxiv.org/abs/1801.01290	https://arxiv.org/pdf/1801.01290	arxiv-1801.01290.pdf	paper	en
+Continuous control with deep reinforcement learning	https://arxiv.org/abs/1509.02971	https://arxiv.org/pdf/1509.02971	arxiv-1509.02971.pdf	paper	en
+Asynchronous Methods for Deep Reinforcement Learning	https://arxiv.org/abs/1602.01783	https://arxiv.org/pdf/1602.01783	arxiv-1602.01783.pdf	paper	en
+Rainbow: Combining Improvements in Deep Reinforcement Learning	https://arxiv.org/abs/1710.02298	https://arxiv.org/pdf/1710.02298	arxiv-1710.02298.pdf	paper	en
+TabNet: Attentive Interpretable Tabular Learning	https://arxiv.org/abs/1908.07442	https://arxiv.org/pdf/1908.07442	arxiv-1908.07442.pdf	paper	en
+Revisiting Deep Learning Models for Tabular Data	https://arxiv.org/abs/2106.11959	https://arxiv.org/pdf/2106.11959	arxiv-2106.11959.pdf	paper	en
+Why do tree-based models still outperform deep learning on typical tabular data?	https://arxiv.org/abs/2207.08815	https://arxiv.org/pdf/2207.08815	arxiv-2207.08815.pdf	paper	en
+TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second	https://arxiv.org/abs/2207.01848	https://arxiv.org/pdf/2207.01848	arxiv-2207.01848.pdf	paper	en
+Deep Sets	https://arxiv.org/abs/1703.06114	https://arxiv.org/pdf/1703.06114	arxiv-1703.06114.pdf	paper	en
+Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles	https://arxiv.org/abs/1612.01474	https://arxiv.org/pdf/1612.01474	arxiv-1612.01474.pdf	paper	en
+Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning	https://arxiv.org/abs/1506.02142	https://arxiv.org/pdf/1506.02142	arxiv-1506.02142.pdf	paper	en
+Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates	https://arxiv.org/abs/1708.07120	https://arxiv.org/pdf/1708.07120	arxiv-1708.07120.pdf	paper	en
+On the Variance of the Adaptive Learning Rate and Beyond	https://arxiv.org/abs/1908.03265	https://arxiv.org/pdf/1908.03265	arxiv-1908.03265.pdf	paper	en
+Lookahead Optimizer: k steps forward, 1 step back	https://arxiv.org/abs/1907.08610	https://arxiv.org/pdf/1907.08610	arxiv-1907.08610.pdf	paper	en
+Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification	https://arxiv.org/abs/1502.01852	https://arxiv.org/pdf/1502.01852	arxiv-1502.01852.pdf	paper	en
+Gaussian Error Linear Units (GELUs)	https://arxiv.org/abs/1606.08415	https://arxiv.org/pdf/1606.08415	arxiv-1606.08415.pdf	paper	en
+Searching for Activation Functions	https://arxiv.org/abs/1710.05941	https://arxiv.org/pdf/1710.05941	arxiv-1710.05941.pdf	paper	en
+Progressive Growing of GANs for Improved Quality, Stability, and Variation	https://arxiv.org/abs/1710.10196	https://arxiv.org/pdf/1710.10196	arxiv-1710.10196.pdf	paper	en
+A Style-Based Generator Architecture for Generative Adversarial Networks	https://arxiv.org/abs/1812.04948	https://arxiv.org/pdf/1812.04948	arxiv-1812.04948.pdf	paper	en
+Analyzing and Improving the Image Quality of StyleGAN	https://arxiv.org/abs/1912.04958	https://arxiv.org/pdf/1912.04958	arxiv-1912.04958.pdf	paper	en
+Semi-Supervised Learning with Deep Generative Models	https://arxiv.org/abs/1406.5298	https://arxiv.org/pdf/1406.5298	arxiv-1406.5298.pdf	paper	en
+Improved Techniques for Training GANs	https://arxiv.org/abs/1606.03498	https://arxiv.org/pdf/1606.03498	arxiv-1606.03498.pdf	paper	en
+Generating Sequences With Recurrent Neural Networks	https://arxiv.org/abs/1308.0850	https://arxiv.org/pdf/1308.0850	arxiv-1308.0850.pdf	paper	en
+Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation	https://arxiv.org/abs/1409.1259	https://arxiv.org/pdf/1409.1259	arxiv-1409.1259.pdf	paper	en
+Memory Networks	https://arxiv.org/abs/1410.3916	https://arxiv.org/pdf/1410.3916	arxiv-1410.3916.pdf	paper	en
+End-To-End Memory Networks	https://arxiv.org/abs/1503.08895	https://arxiv.org/pdf/1503.08895	arxiv-1503.08895.pdf	paper	en
+Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context	https://arxiv.org/abs/1901.02860	https://arxiv.org/pdf/1901.02860	arxiv-1901.02860.pdf	paper	en
+XLNet: Generalized Autoregressive Pretraining for Language Understanding	https://arxiv.org/abs/1906.08237	https://arxiv.org/pdf/1906.08237	arxiv-1906.08237.pdf	paper	en
+Linformer: Self-Attention with Linear Complexity	https://arxiv.org/abs/2006.04768	https://arxiv.org/pdf/2006.04768	arxiv-2006.04768.pdf	paper	en
+Rethinking Attention with Performers	https://arxiv.org/abs/2009.14794	https://arxiv.org/pdf/2009.14794	arxiv-2009.14794.pdf	paper	en
+Reformer: The Efficient Transformer	https://arxiv.org/abs/2001.04451	https://arxiv.org/pdf/2001.04451	arxiv-2001.04451.pdf	paper	en
+Longformer: The Long-Document Transformer	https://arxiv.org/abs/2004.05150	https://arxiv.org/pdf/2004.05150	arxiv-2004.05150.pdf	paper	en
+Big Bird: Transformers for Longer Sequences	https://arxiv.org/abs/2007.14062	https://arxiv.org/pdf/2007.14062	arxiv-2007.14062.pdf	paper	en
+DeepNet: Scaling Transformers to 1,000 Layers	https://arxiv.org/abs/2203.00555	https://arxiv.org/pdf/2203.00555	arxiv-2203.00555.pdf	paper	en
+ALBERT: A Lite BERT for Self-supervised Learning of Language Representations	https://arxiv.org/abs/1909.11942	https://arxiv.org/pdf/1909.11942	arxiv-1909.11942.pdf	paper	en
+DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter	https://arxiv.org/abs/1910.01108	https://arxiv.org/pdf/1910.01108	arxiv-1910.01108.pdf	paper	en
+ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators	https://arxiv.org/abs/2003.10555	https://arxiv.org/pdf/2003.10555	arxiv-2003.10555.pdf	paper	en
+RWKV: Reinventing RNNs for the Transformer Era	https://arxiv.org/abs/2305.13048	https://arxiv.org/pdf/2305.13048	arxiv-2305.13048.pdf	paper	en
+Mamba: Linear-Time Sequence Modeling with Selective State Spaces	https://arxiv.org/abs/2312.00752	https://arxiv.org/pdf/2312.00752	arxiv-2312.00752.pdf	paper	en
+Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality	https://arxiv.org/abs/2405.21060	https://arxiv.org/pdf/2405.21060	arxiv-2405.21060.pdf	paper	en
+Retentive Network: A Successor to Transformer for Large Language Models	https://arxiv.org/abs/2307.08621	https://arxiv.org/pdf/2307.08621	arxiv-2307.08621.pdf	paper	en
+Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity	https://arxiv.org/abs/2101.03961	https://arxiv.org/pdf/2101.03961	arxiv-2101.03961.pdf	paper	en
+Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer	https://arxiv.org/abs/1701.06538	https://arxiv.org/pdf/1701.06538	arxiv-1701.06538.pdf	paper	en
+Scaling Language Models: Methods, Analysis and Insights from Training Gopher	https://arxiv.org/abs/2112.06905	https://arxiv.org/pdf/2112.06905	arxiv-2112.06905.pdf	paper	en
+Scaling Laws for Neural Language Models	https://arxiv.org/abs/2001.08361	https://arxiv.org/pdf/2001.08361	arxiv-2001.08361.pdf	paper	en
+Emergent Abilities of Large Language Models	https://arxiv.org/abs/2206.07682	https://arxiv.org/pdf/2206.07682	arxiv-2206.07682.pdf	paper	en
+GloVe: Global Vectors for Word Representation	https://aclanthology.org/D14-1162/	https://aclanthology.org/D14-1162.pdf	glove-2014.pdf	paper	en
+Обзор методов обучения глубоких нейронных сетей	https://vestnik.susu.ru/cmi/article/view/6152	https://vestnik.susu.ru/cmi/article/download/6152/5640	ru-deep-learning-survey-2017.pdf	paper	ru
+Прогнозирование банкротств предприятий с помощью экстремального градиентного бустинга	https://vestnik.susu.ru/cmi/article/view/9992	https://vestnik.susu.ru/cmi/article/download/9992/7941	ru-xgboost-smote-2020.pdf	paper	ru
+Параллельная реализация алгоритма градиентного бустинга деревьев решений	https://num-meth.ru/index.php/journal/article/view/741	https://num-meth.ru/index.php/journal/article/download/741/748	ru-parallel-boosting-2013.pdf	paper	ru
+Одноклассовые методы и обнаружение аномалий	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-spring/lecture-notes/lecture16-anomaly.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-spring/lecture-notes/lecture16-anomaly.pdf	ru-hse-519a5595d315.pdf	lecture	ru
+AutoML	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2021-spring/lecture-notes/lecture27-auto-ml.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2021-spring/lecture-notes/lecture27-auto-ml.pdf	ru-hse-992c981b4585.pdf	lecture	ru
+Конспект ВШЭ: automl-dsimakov	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2020-spring/lecture-notes/lecture25-automl-dsimakov.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2020-spring/lecture-notes/lecture25-automl-dsimakov.pdf	ru-hse-31ff680b090f.pdf	lecture	ru
+Спектральная кластеризация	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2019-spring/lecture-notes/lecture17-clustering.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2019-spring/lecture-notes/lecture17-clustering.pdf	ru-hse-51f39e4016ea.pdf	lecture	ru
+Кластеризация	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-spring/lecture-notes/lecture17-clusterization.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-spring/lecture-notes/lecture17-clusterization.pdf	ru-hse-ff100cbc4cc6.pdf	lecture	ru
+Введение в глубинное обучение	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture07-deeplearning.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture07-deeplearning.pdf	ru-hse-6e44bf549ce0.pdf	lecture	ru
+Конспект ВШЭ: dl	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2017-fall/lecture-notes/lecture11-dl.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2017-fall/lecture-notes/lecture11-dl.pdf	ru-hse-2ca69efd4ea5.pdf	lecture	ru
+EM-алгоритм	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-spring/lecture-notes/lecture15-em.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-spring/lecture-notes/lecture15-em.pdf	ru-hse-84a47f61dd34.pdf	lecture	ru
+Бэггинг, случайные леса и разложение ошибки на~смещение~и~разброс	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture10-ensembles.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture10-ensembles.pdf	ru-hse-32d6ce3ecead.pdf	lecture	ru
+Матричные разложения и рекомендательные системы	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2020-fall/lecture-notes/lecture12-factorizations.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2020-fall/lecture-notes/lecture12-factorizations.pdf	ru-hse-67a7852acffb.pdf	lecture	ru
+Конспект ВШЭ: features	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2016-fall/lecture-notes/lecture13-features.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2016-fall/lecture-notes/lecture13-features.pdf	ru-hse-5b8a8b56dada.pdf	lecture	ru
+Введение в машинное обучение	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture01-intro.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture01-intro.pdf	ru-hse-c432b372e0e3.pdf	lecture	ru
+Ядра в машинном обучении	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-spring/lecture-notes/lecture14-kernels.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-spring/lecture-notes/lecture14-kernels.pdf	ru-hse-e98f56f907c4.pdf	lecture	ru
+Метрические методы классификации	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-spring/lecture-notes/lecture18-knn.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-spring/lecture-notes/lecture18-knn.pdf	ru-hse-1c32b3e5fbd1.pdf	lecture	ru
+Многоклассовая классификация и категориальные~признаки	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture06-linclass.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture06-linclass.pdf	ru-hse-0315d5d634a0.pdf	lecture	ru
+Линейная регрессия	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture03-linregr.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture03-linregr.pdf	ru-hse-8189abcd57a3.pdf	lecture	ru
+Обучение ранжированию	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2020-spring/lecture-notes/lecture22-ranking.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2020-spring/lecture-notes/lecture22-ranking.pdf	ru-hse-ee6fb3167b02.pdf	lecture	ru
+Рекомендательные системы	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2020-spring/lecture-notes/lecture24-recommender.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2020-spring/lecture-notes/lecture24-recommender.pdf	ru-hse-3ed49c176067.pdf	lecture	ru
+Частичное обучение	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2020-spring/lecture-notes/lecture19-semisupervised.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2020-spring/lecture-notes/lecture19-semisupervised.pdf	ru-hse-ae7aafa5a7d8.pdf	lecture	ru
+Нейросетевые методы для табличных данных	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2021-spring/lecture-notes/lecture25-tabular.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2021-spring/lecture-notes/lecture25-tabular.pdf	ru-hse-c6d2aa0de62b.pdf	lecture	ru
+Конспект ВШЭ: tabular_dl	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2022-spring/lecture-notes/tabular_dl.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2022-spring/lecture-notes/tabular_dl.pdf	ru-hse-cf55a884ac0a.pdf	lecture	en
+Тематическое моделирование	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2020-spring/lecture-notes/lecture18-topicmodels.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2020-spring/lecture-notes/lecture18-topicmodels.pdf	ru-hse-a0aa372def6e.pdf	lecture	ru
+Решающие деревья	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture09-trees.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2025-fall/lecture-notes/lecture09-trees.pdf	ru-hse-29d807300a96.pdf	lecture	ru
+Обучение без учителя	https://github.com/esokolov/ml-course-hse/blob/7781ad7faee3e0351405817494100cc7c83aefce/2021-fall/lecture-notes/lecture12-unsupervised.pdf	https://raw.githubusercontent.com/esokolov/ml-course-hse/7781ad7faee3e0351405817494100cc7c83aefce/2021-fall/lecture-notes/lecture12-unsupervised.pdf	ru-hse-f07c00353808.pdf	lecture	ru
+Decoupled Weight Decay Regularization	https://arxiv.org/abs/1711.05101	https://arxiv.org/pdf/1711.05101	arxiv-1711.05101.pdf	paper	en
+Параллельный алгоритм кластеризации данных для многоядерных ускорителей Intel MIC	https://num-meth.ru/index.php/journal/article/view/1006	https://num-meth.ru/index.php/journal/article/download/1006/1015	ru-numerical-methods-1006.pdf	paper	ru
+Сравнение модифицированного метода крупных частиц с некоторыми схемами высокой разрешающей способности. Одномерные тесты	https://num-meth.ru/index.php/journal/article/view/1009	https://num-meth.ru/index.php/journal/article/download/1009/1018	ru-numerical-methods-1009.pdf	paper	ru
+Применение методов цифровой обработки изображений для визуализации газодинамических разрывов в сверхзвуковых потоках	https://num-meth.ru/index.php/journal/article/view/1017	https://num-meth.ru/index.php/journal/article/download/1017/1026	ru-numerical-methods-1017.pdf	paper	ru
+Нейросетевой метод решения краевой задачи для дифференциальных уравнений дробного порядка	https://num-meth.ru/index.php/journal/article/view/1376	https://num-meth.ru/index.php/journal/article/download/1376/1329	ru-numerical-methods-1376.pdf	paper	ru
+Опыт применения сверточных нейронных сетей к обратным задачам сейсмической разведки	https://num-meth.ru/index.php/journal/article/view/1384	https://num-meth.ru/index.php/journal/article/download/1384/1304	ru-numerical-methods-1384.pdf	paper	ru
+Структурный двухуровневый нейросетевой подход к совместной инверсии гравитационных и магнитных полей	https://num-meth.ru/index.php/journal/article/view/1440	https://num-meth.ru/index.php/journal/article/download/1440/1334	ru-numerical-methods-1440.pdf	paper	ru
+Управление процессом каталитического риформинга бензина на основе кинетической модели с использованием искусственной нейронной сети	https://num-meth.ru/index.php/journal/article/view/1445	https://num-meth.ru/index.php/journal/article/download/1445/1338	ru-numerical-methods-1445.pdf	paper	ru
+Метод построения вполне интерпретируемых линейных регрессий со статистически значимыми по критерию Стьюдента оценками и незначимыми коэффициентами интеркорреляции	https://num-meth.ru/index.php/journal/article/view/1454	https://num-meth.ru/index.php/journal/article/download/1454/1348	ru-numerical-methods-1454.pdf	paper	ru
+Автоматические системы с выводом значений слов в задаче обнаружения лексико-семантического сдвига	https://num-meth.ru/index.php/journal/article/view/1490	https://num-meth.ru/index.php/journal/article/download/1490/1389	ru-numerical-methods-1490.pdf	paper	en
+Распознавание фальшивых видео с подменой лица с помощью учета направления взгляда человека	https://num-meth.ru/index.php/journal/article/view/1494	https://num-meth.ru/index.php/journal/article/download/1494/1374	ru-numerical-methods-1494.pdf	paper	ru
+Зональная марковская модель конвективного переноса в задаче ПЦР в микропробирке	https://num-meth.ru/index.php/journal/article/view/1503	https://num-meth.ru/index.php/journal/article/download/1503/1373	ru-numerical-methods-1503.pdf	paper	ru
+Разработка подхода к анализу доступности вычислительных узлов суперкомпьютерных комплексов	https://num-meth.ru/index.php/journal/article/view/1505	https://num-meth.ru/index.php/journal/article/download/1505/1382	ru-numerical-methods-1505.pdf	paper	ru
+Применение методов машинного обучения для ускорения решения задачи оптимального управления генерирующим оборудованием	https://num-meth.ru/index.php/journal/article/view/1521	https://num-meth.ru/index.php/journal/article/download/1521/1401	ru-numerical-methods-1521.pdf	paper	ru
+Численная реализация метода функционально-аналитических рядов проецирования на устойчивое многообразие	https://num-meth.ru/index.php/journal/article/view/194	https://num-meth.ru/index.php/journal/article/download/194/201	ru-numerical-methods-194.pdf	paper	ru
+Программирование на типовых алгоритмических структурах с массивным параллелизмом	https://num-meth.ru/index.php/journal/article/view/29	https://num-meth.ru/index.php/journal/article/download/29/36	ru-numerical-methods-29.pdf	paper	ru
+О приближенно-аналитическом решении одной задачи фильтрации	https://num-meth.ru/index.php/journal/article/view/322	https://num-meth.ru/index.php/journal/article/download/322/329	ru-numerical-methods-322.pdf	paper	ru
+Метод эволюционного накопления признаков для автоматического построения нейронных сетей	https://num-meth.ru/index.php/journal/article/view/35	https://num-meth.ru/index.php/journal/article/download/35/42	ru-numerical-methods-35.pdf	paper	ru
+Обзор алгоритмов построения триангуляции Делоне	https://num-meth.ru/index.php/journal/article/view/45	https://num-meth.ru/index.php/journal/article/download/45/52	ru-numerical-methods-45.pdf	paper	ru
+Извлечение и использование оценочных слов в задаче классификации отзывов на три класса	https://num-meth.ru/index.php/journal/article/view/488	https://num-meth.ru/index.php/journal/article/download/488/495	ru-numerical-methods-488.pdf	paper	ru
+Основные свойства обратного итерационного алгоритма решения систем линейных уравнений с положительно определенными матрицами	https://num-meth.ru/index.php/journal/article/view/531	https://num-meth.ru/index.php/journal/article/download/531/538	ru-numerical-methods-531.pdf	paper	ru
+Ранжирование документов по запросу на основе лога действий пользователей поисковой системы	https://num-meth.ru/index.php/journal/article/view/553	https://num-meth.ru/index.php/journal/article/download/553/560	ru-numerical-methods-553.pdf	paper	ru
+Исследование эффективности параллельных программ по данным мониторинга	https://num-meth.ru/index.php/journal/article/view/566	https://num-meth.ru/index.php/journal/article/download/566/573	ru-numerical-methods-566.pdf	paper	ru
+Тематические модели: добавление биграмм и учет сходства между униграммами и биграммами	https://num-meth.ru/index.php/journal/article/view/828	https://num-meth.ru/index.php/journal/article/download/828/835	ru-numerical-methods-828.pdf	paper	ru
+Визуализация течений с сильными и слабыми газодинамическими разрывами в вычислительной газовой динамике	https://num-meth.ru/index.php/journal/article/view/886	https://num-meth.ru/index.php/journal/article/download/886/893	ru-numerical-methods-886.pdf	paper	ru
+Исследование методов реализации фильтра Собеля на реконфигурируемых вычислительных системах	https://num-meth.ru/index.php/journal/article/view/981	https://num-meth.ru/index.php/journal/article/download/981/988	ru-numerical-methods-981.pdf	paper	ru
+1.1. Об этой книге	https://contest.yandex.ru/tracks/ml/introduction/about-this-book	https://contest.yandex.ru/tracks/ml/introduction/about-this-book	handbook-880592c1f12e3908.md	handbook	ru
+2.1. Введение	https://contest.yandex.ru/tracks/ml/supervised-learning/introduction	https://contest.yandex.ru/tracks/ml/supervised-learning/introduction	handbook-69dc30b0d0d90d69.md	handbook	ru
+3.1. Введение	https://contest.yandex.ru/tracks/ml/model-evaluation/introduction	https://contest.yandex.ru/tracks/ml/model-evaluation/introduction	handbook-9682596c1bd8f40c.md	handbook	ru
+4.1. Вероятностный подход в ML	https://contest.yandex.ru/tracks/ml/probabilistic-models/probabilistic-approach-to-machine-learning	https://contest.yandex.ru/tracks/ml/probabilistic-models/probabilistic-approach-to-machine-learning	handbook-31b3dd7b14963521.md	handbook	ru
+5.1. Нейронные сети	https://contest.yandex.ru/tracks/ml/deep-learning-introduction/neural-networks	https://contest.yandex.ru/tracks/ml/deep-learning-introduction/neural-networks	handbook-c0d89e9507d0708d.md	handbook	ru
+6.1. Свёрточные нейросети	https://contest.yandex.ru/tracks/ml/deep-learning-architectures/convolutional-neural-networks	https://contest.yandex.ru/tracks/ml/deep-learning-architectures/convolutional-neural-networks	handbook-56b28a22f5e2e5a5.md	handbook	ru
+7.1. Обучение представлений	https://contest.yandex.ru/tracks/ml/deep-learning-practice/representation-learning	https://contest.yandex.ru/tracks/ml/deep-learning-practice/representation-learning	handbook-d196e92d8892394c.md	handbook	ru
+8.1. Введение в генеративное моделирование	https://contest.yandex.ru/tracks/ml/generative-models/introduction-to-generative-modeling	https://contest.yandex.ru/tracks/ml/generative-models/introduction-to-generative-modeling	handbook-a0b4c91f4c2cb895.md	handbook	ru
+9.1. Введение в рекомендательные системы	https://contest.yandex.ru/tracks/ml/recommender-systems/introduction-to-recommender-systems	https://contest.yandex.ru/tracks/ml/recommender-systems/introduction-to-recommender-systems	handbook-3d6e49509497dcc6.md	handbook	ru
+10.1. Кластеризация	https://contest.yandex.ru/tracks/ml/practical-topics/clustering	https://contest.yandex.ru/tracks/ml/practical-topics/clustering	handbook-9998a07b77a78f83.md	handbook	ru
+11.1. Обучение с подкреплением	https://contest.yandex.ru/tracks/ml/environment-interaction/reinforcement-learning	https://contest.yandex.ru/tracks/ml/environment-interaction/reinforcement-learning	handbook-46824d3043525bbc.md	handbook	ru
+12.1. Bias-variance decomposition	https://contest.yandex.ru/tracks/ml/machine-learning-theory/bias-variance-decomposition	https://contest.yandex.ru/tracks/ml/machine-learning-theory/bias-variance-decomposition	handbook-a21f152d753e1833.md	handbook	ru
+13.1. Введение в теорию глубокого обучения	https://contest.yandex.ru/tracks/ml/deep-learning-theory/introduction-to-deep-learning-theory	https://contest.yandex.ru/tracks/ml/deep-learning-theory/introduction-to-deep-learning-theory	handbook-af8cf93662a766de.md	handbook	ru
+14.1. Оптимизация в ML	https://contest.yandex.ru/tracks/ml/optimization-in-machine-learning/optimization-in-machine-learning	https://contest.yandex.ru/tracks/ml/optimization-in-machine-learning/optimization-in-machine-learning	handbook-05c9776886ae9bbe.md	handbook	ru
+15.1. Введение в онлайн-обучение	https://contest.yandex.ru/tracks/ml/online-learning-and-stochastic-optimization/introduction-to-online-learning	https://contest.yandex.ru/tracks/ml/online-learning-and-stochastic-optimization/introduction-to-online-learning	handbook-91eff0849a10534e.md	handbook	ru
+16.1. Матричное дифференцирование	https://contest.yandex.ru/tracks/ml/mathematical-foundations/matrix-calculus	https://contest.yandex.ru/tracks/ml/mathematical-foundations/matrix-calculus	handbook-d087161d52ed396e.md	handbook	ru
+1.2. Первые шаги	https://contest.yandex.ru/tracks/ml/introduction/first-steps	https://contest.yandex.ru/tracks/ml/introduction/first-steps	handbook-7651debbdcd33845.md	handbook	ru
+1.3. Машинное обучение	https://contest.yandex.ru/tracks/ml/introduction/machine-learning	https://contest.yandex.ru/tracks/ml/introduction/machine-learning	handbook-f91b3154e3536c2b.md	handbook	ru
+1.4. Как работать с системой проверки заданий	https://contest.yandex.ru/tracks/ml/introduction/contest	https://contest.yandex.ru/tracks/ml/introduction/contest	handbook-0ca601300d789c11.md	handbook	ru
+2.2. Линейные модели	https://contest.yandex.ru/tracks/ml/supervised-learning/linear-models	https://contest.yandex.ru/tracks/ml/supervised-learning/linear-models	handbook-ddef69e99948f958.md	handbook	ru
+2.3. Метрические методы	https://contest.yandex.ru/tracks/ml/supervised-learning/metric-methods	https://contest.yandex.ru/tracks/ml/supervised-learning/metric-methods	handbook-ef52a34869a7fcb0.md	handbook	ru
+2.4. Решающие деревья	https://contest.yandex.ru/tracks/ml/supervised-learning/decision-trees	https://contest.yandex.ru/tracks/ml/supervised-learning/decision-trees	handbook-87383637429c081b.md	handbook	ru
+2.5. Ансамбли в машинном обучении	https://contest.yandex.ru/tracks/ml/supervised-learning/ensembles-in-machine-learning	https://contest.yandex.ru/tracks/ml/supervised-learning/ensembles-in-machine-learning	handbook-4f4cc840ba72b7be.md	handbook	ru
+2.6. Градиентный бустинг	https://contest.yandex.ru/tracks/ml/supervised-learning/gradient-boosting	https://contest.yandex.ru/tracks/ml/supervised-learning/gradient-boosting	handbook-893d45c3f1ac6bec.md	handbook	ru
+2.7. Заключение	https://contest.yandex.ru/tracks/ml/supervised-learning/conclusion	https://contest.yandex.ru/tracks/ml/supervised-learning/conclusion	handbook-f688a8b63d37f3d0.md	handbook	ru
+3.2. Метрики классификации и регрессии	https://contest.yandex.ru/tracks/ml/model-evaluation/classification-and-regression-metrics	https://contest.yandex.ru/tracks/ml/model-evaluation/classification-and-regression-metrics	handbook-60b1a46f84250210.md	handbook	ru
+3.3. Кросс-валидация	https://contest.yandex.ru/tracks/ml/model-evaluation/cross-validation	https://contest.yandex.ru/tracks/ml/model-evaluation/cross-validation	handbook-59cc0fdc319ece3a.md	handbook	ru
+3.4. Подбор гиперпараметров	https://contest.yandex.ru/tracks/ml/model-evaluation/hyperparameter-tuning	https://contest.yandex.ru/tracks/ml/model-evaluation/hyperparameter-tuning	handbook-e1b4e599f921530f.md	handbook	ru
+3.5. Заключение	https://contest.yandex.ru/tracks/ml/model-evaluation/conclusion	https://contest.yandex.ru/tracks/ml/model-evaluation/conclusion	handbook-4a88e8fb8c9d28a1.md	handbook	ru
+4.2. Экспоненциальный класс распределений и принцип максимальной энтропии	https://contest.yandex.ru/tracks/ml/probabilistic-models/exponential-family-and-maximum-entropy	https://contest.yandex.ru/tracks/ml/probabilistic-models/exponential-family-and-maximum-entropy	handbook-613387ef8062e0ec.md	handbook	ru
+4.3. Обобщённые линейные модели	https://contest.yandex.ru/tracks/ml/probabilistic-models/generalized-linear-models	https://contest.yandex.ru/tracks/ml/probabilistic-models/generalized-linear-models	handbook-7dd4967adc666299.md	handbook	ru
+4.4. Как оценивать вероятности	https://contest.yandex.ru/tracks/ml/probabilistic-models/probability-estimation	https://contest.yandex.ru/tracks/ml/probabilistic-models/probability-estimation	handbook-9bf4cd58c177d61f.md	handbook	ru
+4.5. Генеративный подход к классификации	https://contest.yandex.ru/tracks/ml/probabilistic-models/generative-classification	https://contest.yandex.ru/tracks/ml/probabilistic-models/generative-classification	handbook-f30e939b9b2abdf9.md	handbook	ru
+4.6. Байесовский подход к оцениванию	https://contest.yandex.ru/tracks/ml/probabilistic-models/bayesian-estimation	https://contest.yandex.ru/tracks/ml/probabilistic-models/bayesian-estimation	handbook-a0a866e2a862a743.md	handbook	ru
+4.7. Модели с латентными переменными	https://contest.yandex.ru/tracks/ml/probabilistic-models/latent-variable-models	https://contest.yandex.ru/tracks/ml/probabilistic-models/latent-variable-models	handbook-eccf1db056966a64.md	handbook	ru
+5.2. Первое знакомство с полносвязными нейросетями	https://contest.yandex.ru/tracks/ml/deep-learning-introduction/fully-connected-neural-networks	https://contest.yandex.ru/tracks/ml/deep-learning-introduction/fully-connected-neural-networks	handbook-5c0a0189349a87b3.md	handbook	ru
+5.3. Метод обратного распространения ошибки	https://contest.yandex.ru/tracks/ml/deep-learning-introduction/backpropagation	https://contest.yandex.ru/tracks/ml/deep-learning-introduction/backpropagation	handbook-ef51de9bbed25362.md	handbook	ru
+5.4. Тонкости обучения	https://contest.yandex.ru/tracks/ml/deep-learning-introduction/training-techniques	https://contest.yandex.ru/tracks/ml/deep-learning-introduction/training-techniques	handbook-eb1c5fb4a7cd6053.md	handbook	ru
+6.2. Нейросети для работы с последовательностями	https://contest.yandex.ru/tracks/ml/deep-learning-architectures/neural-networks-for-sequences	https://contest.yandex.ru/tracks/ml/deep-learning-architectures/neural-networks-for-sequences	handbook-10f1f35179c7d38e.md	handbook	ru
+6.3. Трансформеры	https://contest.yandex.ru/tracks/ml/deep-learning-architectures/transformers	https://contest.yandex.ru/tracks/ml/deep-learning-architectures/transformers	handbook-50cfb3cd0c91be6c.md	handbook	ru
+6.4. Графовые нейронные сети	https://contest.yandex.ru/tracks/ml/deep-learning-architectures/graph-neural-networks	https://contest.yandex.ru/tracks/ml/deep-learning-architectures/graph-neural-networks	handbook-21c56f9b959c1cc4.md	handbook	ru
+6.5. Нейросети для облаков точек	https://contest.yandex.ru/tracks/ml/deep-learning-architectures/neural-networks-for-point-clouds	https://contest.yandex.ru/tracks/ml/deep-learning-architectures/neural-networks-for-point-clouds	handbook-def20eb44769dc89.md	handbook	ru
+7.2. Дистилляция знаний	https://contest.yandex.ru/tracks/ml/deep-learning-practice/knowledge-distillation	https://contest.yandex.ru/tracks/ml/deep-learning-practice/knowledge-distillation	handbook-a22331d4459fe960.md	handbook	ru
+8.2. Variational Autoencoder (VAE)	https://contest.yandex.ru/tracks/ml/generative-models/variational-autoencoder	https://contest.yandex.ru/tracks/ml/generative-models/variational-autoencoder	handbook-a28022183c37f165.md	handbook	ru
+8.3. Генеративно-состязательные сети (GAN)	https://contest.yandex.ru/tracks/ml/generative-models/generative-adversarial-networks	https://contest.yandex.ru/tracks/ml/generative-models/generative-adversarial-networks	handbook-1b2be76ec5945e52.md	handbook	ru
+8.4. Нормализующие потоки	https://contest.yandex.ru/tracks/ml/generative-models/normalizing-flows	https://contest.yandex.ru/tracks/ml/generative-models/normalizing-flows	handbook-5efafe80111cf896.md	handbook	ru
+8.5. Диффузионные модели	https://contest.yandex.ru/tracks/ml/generative-models/diffusion-models	https://contest.yandex.ru/tracks/ml/generative-models/diffusion-models	handbook-97b6d4274ffd1dc1.md	handbook	ru
+8.6. Языковые модели	https://contest.yandex.ru/tracks/ml/generative-models/language-models	https://contest.yandex.ru/tracks/ml/generative-models/language-models	handbook-03a7b0fadfdbd3ab.md	handbook	ru
+9.2. Рекомендации на основе матричных разложений	https://contest.yandex.ru/tracks/ml/recommender-systems/matrix-factorization-recommendations	https://contest.yandex.ru/tracks/ml/recommender-systems/matrix-factorization-recommendations	handbook-9da672adffe25e56.md	handbook	ru
+9.3. Контентные рекомендации	https://contest.yandex.ru/tracks/ml/recommender-systems/content-based-recommendations	https://contest.yandex.ru/tracks/ml/recommender-systems/content-based-recommendations	handbook-268c23e82fd3811f.md	handbook	ru
+9.4. Хорошие свойства рекомендательных систем	https://contest.yandex.ru/tracks/ml/recommender-systems/properties-of-recommender-systems	https://contest.yandex.ru/tracks/ml/recommender-systems/properties-of-recommender-systems	handbook-34111a37ad4e3c7a.md	handbook	ru
+16.2. Матричная факторизация	https://contest.yandex.ru/tracks/ml/mathematical-foundations/matrix-factorization	https://contest.yandex.ru/tracks/ml/mathematical-foundations/matrix-factorization	handbook-6794dd0acadeb4d8.md	handbook	ru
+10.2. Временные ряды	https://contest.yandex.ru/tracks/ml/practical-topics/time-series	https://contest.yandex.ru/tracks/ml/practical-topics/time-series	handbook-281619313c52c288.md	handbook	ru
+10.3. Аналитика временных рядов	https://contest.yandex.ru/tracks/ml/practical-topics/time-series-analysis	https://contest.yandex.ru/tracks/ml/practical-topics/time-series-analysis	handbook-fed80a96beb8a1b3.md	handbook	ru
+10.4. Модели вида ARIMA	https://contest.yandex.ru/tracks/ml/practical-topics/arima-models	https://contest.yandex.ru/tracks/ml/practical-topics/arima-models	handbook-8bd94f1639caeb4e.md	handbook	ru
+10.5. Задача ранжирования	https://contest.yandex.ru/tracks/ml/practical-topics/ranking	https://contest.yandex.ru/tracks/ml/practical-topics/ranking	handbook-5b19bf4fe55b4f31.md	handbook	ru
+11.2. Краудсорсинг	https://contest.yandex.ru/tracks/ml/environment-interaction/crowdsourcing	https://contest.yandex.ru/tracks/ml/environment-interaction/crowdsourcing	handbook-45109f3b063d2624.md	handbook	ru
+13.2. Обобщающая способность – классическая теория	https://contest.yandex.ru/tracks/ml/deep-learning-theory/generalization-classical-theory	https://contest.yandex.ru/tracks/ml/deep-learning-theory/generalization-classical-theory	handbook-af155be665855537.md	handbook	ru
+13.3. PAC-байесовские оценки риска	https://contest.yandex.ru/tracks/ml/deep-learning-theory/pac-bayesian-risk-bounds	https://contest.yandex.ru/tracks/ml/deep-learning-theory/pac-bayesian-risk-bounds	handbook-626b8baa3a1c9b4a.md	handbook	ru
+13.4. Сети бесконечной ширины	https://contest.yandex.ru/tracks/ml/deep-learning-theory/infinite-width-networks	https://contest.yandex.ru/tracks/ml/deep-learning-theory/infinite-width-networks	handbook-98d748f0c8abee8b.md	handbook	ru
+13.5. Ландшафт функции потерь	https://contest.yandex.ru/tracks/ml/deep-learning-theory/loss-landscape	https://contest.yandex.ru/tracks/ml/deep-learning-theory/loss-landscape	handbook-8e037903993e98f6.md	handbook	ru
+13.6. Implicit bias	https://contest.yandex.ru/tracks/ml/deep-learning-theory/implicit-bias	https://contest.yandex.ru/tracks/ml/deep-learning-theory/implicit-bias	handbook-a9fd1130edb34c74.md	handbook	ru
+14.2. Проксимальные методы	https://contest.yandex.ru/tracks/ml/optimization-in-machine-learning/proximal-methods	https://contest.yandex.ru/tracks/ml/optimization-in-machine-learning/proximal-methods	handbook-db3243d7c1c53779.md	handbook	ru
+14.3. Методы второго порядка	https://contest.yandex.ru/tracks/ml/optimization-in-machine-learning/second-order-methods	https://contest.yandex.ru/tracks/ml/optimization-in-machine-learning/second-order-methods	handbook-547a2c7b15884f2d.md	handbook	ru
+14.4. Сходимость SGD	https://contest.yandex.ru/tracks/ml/optimization-in-machine-learning/sgd-convergence	https://contest.yandex.ru/tracks/ml/optimization-in-machine-learning/sgd-convergence	handbook-7bb38b48c1bf43cd.md	handbook	ru
+15.2. Адаптивный FTRL	https://contest.yandex.ru/tracks/ml/online-learning-and-stochastic-optimization/adaptive-ftrl	https://contest.yandex.ru/tracks/ml/online-learning-and-stochastic-optimization/adaptive-ftrl	handbook-29704c45416ac98d.md	handbook	ru
+15.3. Регуляризация в онлайн-обучении	https://contest.yandex.ru/tracks/ml/online-learning-and-stochastic-optimization/regularization-in-online-learning	https://contest.yandex.ru/tracks/ml/online-learning-and-stochastic-optimization/regularization-in-online-learning	handbook-c6e171496883a4f8.md	handbook	ru
+15.4. Методы оптимизации в Deep Learning	https://contest.yandex.ru/tracks/ml/online-learning-and-stochastic-optimization/optimization-methods-in-deep-learning	https://contest.yandex.ru/tracks/ml/online-learning-and-stochastic-optimization/optimization-methods-in-deep-learning	handbook-ab808ceae2bb1690.md	handbook	ru
+16.3. Вероятностные распределения	https://contest.yandex.ru/tracks/ml/mathematical-foundations/probability-distributions	https://contest.yandex.ru/tracks/ml/mathematical-foundations/probability-distributions	handbook-e1c8ce807f9e1208.md	handbook	ru
+16.4. Многомерные распределения	https://contest.yandex.ru/tracks/ml/mathematical-foundations/multivariate-distributions	https://contest.yandex.ru/tracks/ml/mathematical-foundations/multivariate-distributions	handbook-7ad78c96f3fc1cb2.md	handbook	ru
+16.5. Независимость и условные распределения вероятностей	https://contest.yandex.ru/tracks/ml/mathematical-foundations/independence-and-conditional-distributions	https://contest.yandex.ru/tracks/ml/mathematical-foundations/independence-and-conditional-distributions	handbook-51020f3f6288d8fe.md	handbook	ru
+16.6. Параметрические оценки	https://contest.yandex.ru/tracks/ml/mathematical-foundations/parametric-estimation	https://contest.yandex.ru/tracks/ml/mathematical-foundations/parametric-estimation	handbook-96c352e2c973cf10.md	handbook	ru
+16.7. Энтропия и семейство экспоненциальных распределений	https://contest.yandex.ru/tracks/ml/mathematical-foundations/entropy-and-exponential-families	https://contest.yandex.ru/tracks/ml/mathematical-foundations/entropy-and-exponential-families	handbook-75b9aa6ad659e124.md	handbook	ru

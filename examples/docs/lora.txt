@@ -1,0 +1,2 @@
+Synthetic demonstration fixture, not an academic source.
+LoRA freezes pretrained weights and trains low-rank adapters. This reduces the number of trainable parameters and optimizer states. The frozen base model still requires memory. Training speed depends on hardware, batch size, model size and implementation. This fixture provides no measured speed comparison.

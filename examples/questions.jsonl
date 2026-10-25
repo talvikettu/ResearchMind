@@ -1,0 +1,3 @@
+{"id":"memory","question":"Compare LoRA and QLoRA memory requirements", "relevant_sources":["lora.txt","qlora.txt"]}
+{"id":"quantization","question":"How does QLoRA use NormalFloat and double quantization?", "relevant_sources":["qlora.txt"]}
+{"id":"speed","question":"What determines training speed for LoRA and QLoRA?", "relevant_sources":["lora.txt","qlora.txt"]}

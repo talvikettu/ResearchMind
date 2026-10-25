@@ -1,0 +1,2 @@
+Synthetic demonstration fixture, not an academic source.
+QLoRA uses a frozen quantized base model with trainable low-rank adapters. Four-bit NormalFloat and double quantization reduce base-weight storage. Quantization and dequantization can add overhead. Quality and training speed must be measured on the same task and hardware. This fixture provides no benchmark results.

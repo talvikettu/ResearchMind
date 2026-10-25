@@ -1,0 +1,6 @@
+{"id":"rf-oob","question":"How do random forests estimate generalization error using out-of-bag samples?","relevant_sources":["random-forests-2001.pdf"]}
+{"id":"xgb-sparse","question":"What is the sparsity-aware split finding algorithm in XGBoost?","relevant_sources":["xgboost-2016.pdf"]}
+{"id":"turboquant","question":"How does TurboQuant combine random rotation and quantization to reduce inner product distortion?","relevant_sources":["turboquant-2025.pdf"]}
+{"id":"lora-qlora","question":"Compare LoRA and QLoRA memory requirements and trainable parameters","relevant_sources":["lora-2021.pdf","qlora-2023.pdf"]}
+{"id":"transformer","question":"Why is multi-head attention used in the Transformer?","relevant_sources":["attention-2017.pdf"]}
+{"id":"diffusion","question":"How do denoising diffusion probabilistic models define the forward process and reverse process?","relevant_sources":["ddpm-2020.pdf"]}

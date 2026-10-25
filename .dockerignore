@@ -1,0 +1,11 @@
+.venv
+.python
+.uv-cache
+.git
+.env
+data
+reports
+__pycache__
+.pytest-work
+.pytest_cache
+.ruff_cache

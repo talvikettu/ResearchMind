@@ -1,0 +1,74 @@
+x-runtime: &runtime
+  RESEARCH_DATA_DIR: /app/data
+  RESEARCH_QDRANT_URL: http://qdrant:6333
+  RESEARCH_EMBEDDINGS: sentence-transformers
+  RESEARCH_EMBEDDING_MODEL: intfloat/multilingual-e5-small
+  RESEARCH_RERANKER: cross-encoder
+  RESEARCH_RERANKER_MODEL: corrius/cross-encoder-mmarco-mMiniLMv2-L12-H384-v1
+  RESEARCH_MODEL_CACHE: /app/data/models/huggingface/hub
+  RESEARCH_RETRIEVAL_DEVICE: cpu
+  RESEARCH_ANSWER_BACKEND: ollama
+  RESEARCH_OLLAMA_URL: http://ollama:11434
+  RESEARCH_ANSWER_MODEL: ${RESEARCH_ANSWER_MODEL:-qwen2.5:3b}
+  RESEARCH_DENSE_WEIGHT: "${RESEARCH_DENSE_WEIGHT:-0.5}"
+  RESEARCH_RRF_K: "${RESEARCH_RRF_K:-60}"
+  RESEARCH_DIVERSITY_PENALTY: "${RESEARCH_DIVERSITY_PENALTY:-0.15}"
+  RESEARCH_SEARCH_POOL: "${RESEARCH_SEARCH_POOL:-20}"
+  RESEARCH_RERANK_CANDIDATES: "${RESEARCH_RERANK_CANDIDATES:-40}"
+  RESEARCH_HANDBOOK_BOOST: "${RESEARCH_HANDBOOK_BOOST:-0.0}"
+  RESEARCH_TITLE_WEIGHT: "${RESEARCH_TITLE_WEIGHT:-0.0}"
+  RESEARCH_RETRIEVAL_K: "${RESEARCH_RETRIEVAL_K:-8}"
+  RESEARCH_EVIDENCE_LIMIT: "${RESEARCH_EVIDENCE_LIMIT:-10}"
+  RESEARCH_PER_DOCUMENT: "${RESEARCH_PER_DOCUMENT:-3}"
+  RESEARCH_PARENT_MAX_CHARS: "${RESEARCH_PARENT_MAX_CHARS:-5000}"
+  RESEARCH_COLLAPSE_PARENTS: "${RESEARCH_COLLAPSE_PARENTS:-false}"
+  RESEARCH_ENTITY_ROUTING: "${RESEARCH_ENTITY_ROUTING:-false}"
+  RESEARCH_ANSWER_PROFILE: "${RESEARCH_ANSWER_PROFILE:-legacy}"
+  RESEARCH_ANSWER_CONTEXT: "${RESEARCH_ANSWER_CONTEXT:-6144}"
+  RESEARCH_ANSWER_MAX_TOKENS: "${RESEARCH_ANSWER_MAX_TOKENS:-2000}"
+  RESEARCH_ANSWER_SOURCES: "${RESEARCH_ANSWER_SOURCES:-6}"
+  RESEARCH_ANSWER_TEMPERATURE: "${RESEARCH_ANSWER_TEMPERATURE:-0.0}"
+  RESEARCH_TECHNICAL_EXPANSION: "${RESEARCH_TECHNICAL_EXPANSION:-false}"
+  RESEARCH_ANSWER_SOURCE_FIRST: "${RESEARCH_ANSWER_SOURCE_FIRST:-false}"
+  RESEARCH_STRICT_ENTITY_EVIDENCE: "${RESEARCH_STRICT_ENTITY_EVIDENCE:-false}"
+  RESEARCH_TEACHING_PRECISION: "${RESEARCH_TEACHING_PRECISION:-false}"
+
+services:
+  qdrant:
+    image: qdrant/qdrant:v1.20.0
+    volumes:
+      - qdrant-data:/qdrant/storage
+    restart: unless-stopped
+  ollama:
+    image: ${OLLAMA_IMAGE:-ollama/ollama@sha256:4c5b27871a3239a717048f9b93057680a51b60c8119a7016aebb57f938e25e35}
+    volumes:
+      - ./data/models/ollama:/root/.ollama/models
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+    restart: unless-stopped
+  app:
+    build: .
+    image: researchmind:local
+    environment: *runtime
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "127.0.0.1:${RESEARCH_API_PORT:-8000}:8000"
+      - "127.0.0.1:${RESEARCH_UI_PORT:-8501}:8501"
+    depends_on:
+      ollama:
+        condition: service_healthy
+      qdrant:
+        condition: service_started
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health',timeout=5); urllib.request.urlopen('http://127.0.0.1:8501/_stcore/health',timeout=5)"]
+      interval: 15s
+      timeout: 12s
+      retries: 10
+      start_period: 180s
+    restart: unless-stopped
+volumes:
+  qdrant-data:

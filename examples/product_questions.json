@@ -1,0 +1,10 @@
+[
+  {"question":"Опиши мне алгоритм линейной регрессии", "answer_mode":"explain"},
+  {"question":"Как подобрать коэффициенты прямой по обучающим данным?", "answer_mode":"explain"},
+  {"question":"Сравни Lasso и Ridge: штраф, отбор признаков и переобучение.", "answer_mode":"compare"},
+  {"question":"Что такое градиентный бустинг и как он обучается?", "answer_mode":"explain"},
+  {"question":"Как предотвратить утечку данных при кросс-валидации?", "answer_mode":"research"},
+  {"question":"Объясни метод опорных векторов и формулу разделяющей гиперплоскости", "answer_mode":"explain"},
+  {"question":"Какова точная скорость обучения TurboQuant на RTX 5090 в токенах в секунду?", "answer_mode":"research"},
+  {"question":"What does AdamW change compared with Adam?", "answer_mode":"compare"}
+]

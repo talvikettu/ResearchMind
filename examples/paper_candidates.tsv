@@ -1,0 +1,150 @@
+1606.04838	Optimization for Deep Learning
+1609.04747	An overview of gradient descent optimization algorithms
+1803.08494	Group Normalization
+1607.06450	Layer Normalization
+1512.03385	Deep Residual Learning for Image Recognition
+1409.1556	Very Deep Convolutional Networks for Large-Scale Image Recognition
+1409.4842	Going Deeper with Convolutions
+1511.06434	Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+1406.2661	Generative Adversarial Networks
+1312.6114	Auto-Encoding Variational Bayes
+1401.4082	Stochastic Backpropagation and Approximate Inference in Deep Generative Models
+1409.0473	Neural Machine Translation by Jointly Learning to Align and Translate
+1409.3215	Sequence to Sequence Learning with Neural Networks
+1508.04025	Effective Approaches to Attention-based Neural Machine Translation
+1810.04805	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+1907.11692	RoBERTa: A Robustly Optimized BERT Pretraining Approach
+1910.10683	Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+2005.14165	Language Models are Few-Shot Learners
+2203.02155	Training language models to follow instructions with human feedback
+2203.15556	Training Compute-Optimal Large Language Models
+2205.01068	OPT: Open Pre-trained Transformer Language Models
+2204.02311	PaLM: Scaling Language Modeling with Pathways
+2302.13971	LLaMA: Open and Efficient Foundation Language Models
+2307.09288	Llama 2: Open Foundation and Fine-Tuned Chat Models
+2109.01652	Finetuned Language Models Are Zero-Shot Learners
+2201.11903	Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+2205.11916	Large Language Models are Zero-Shot Reasoners
+2210.03629	ReAct: Synergizing Reasoning and Acting in Language Models
+2302.04761	Toolformer: Language Models Can Teach Themselves to Use Tools
+2005.11401	Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+2004.04906	Dense Passage Retrieval for Open-Domain Question Answering
+2004.12832	ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT
+2007.01282	Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering
+1908.10084	Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
+2402.05672	Multilingual E5 Text Embeddings: A Technical Report
+2212.03533	Text Embeddings by Weakly-Supervised Contrastive Pre-training
+2002.08909	REALM: Retrieval-Augmented Language Model Pre-Training
+2112.09118	Unsupervised Dense Information Retrieval with Contrastive Learning
+2112.04426	Improving language models by retrieving from trillions of tokens
+2305.06983	Active Retrieval Augmented Generation
+2309.15217	RAGAS: Automated Evaluation of Retrieval Augmented Generation
+2310.11511	Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
+2401.15884	Corrective Retrieval Augmented Generation
+2404.16130	From Local to Global: A Graph RAG Approach to Query-Focused Summarization
+2312.10997	Retrieval-Augmented Generation for Large Language Models: A Survey
+2306.00978	AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
+2210.17323	GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers
+2211.10438	SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models
+2208.07339	LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale
+2205.14135	FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness
+2307.08691	FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning
+2309.06180	Efficient Memory Management for Large Language Model Serving with PagedAttention
+2010.11929	An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+2103.14030	Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+1512.02325	SSD: Single Shot MultiBox Detector
+1506.02640	You Only Look Once: Unified, Real-Time Object Detection
+1506.01497	Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+1703.06870	Mask R-CNN
+1505.04597	U-Net: Convolutional Networks for Biomedical Image Segmentation
+1801.04381	MobileNetV2: Inverted Residuals and Linear Bottlenecks
+1905.11946	EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+2002.05709	A Simple Framework for Contrastive Learning of Visual Representations
+2006.07733	Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
+1807.03748	Representation Learning with Contrastive Predictive Coding
+1911.05722	Momentum Contrast for Unsupervised Visual Representation Learning
+2103.00020	Learning Transferable Visual Models From Natural Language Supervision
+2104.14294	Emerging Properties in Self-Supervised Vision Transformers
+2106.08254	BEiT: BERT Pre-Training of Image Transformers
+2111.06377	Masked Autoencoders Are Scalable Vision Learners
+2204.14198	Flamingo: a Visual Language Model for Few-Shot Learning
+2304.08485	Visual Instruction Tuning
+2301.12597	BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
+2201.12086	BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+2010.02502	Denoising Diffusion Implicit Models
+2102.09672	Improved Denoising Diffusion Probabilistic Models
+2105.05233	Diffusion Models Beat GANs on Image Synthesis
+2112.10752	High-Resolution Image Synthesis with Latent Diffusion Models
+2207.12598	Classifier-Free Diffusion Guidance
+2011.13456	Score-Based Generative Modeling through Stochastic Differential Equations
+1807.03039	Glow: Generative Flow with Invertible 1x1 Convolutions
+1605.08803	Density estimation using Real NVP
+1505.05770	Variational Inference with Normalizing Flows
+1312.6199	Intriguing properties of neural networks
+1412.6572	Explaining and Harnessing Adversarial Examples
+1706.06083	Towards Deep Learning Models Resistant to Adversarial Attacks
+1602.04938	Why Should I Trust You? Explaining the Predictions of Any Classifier
+1705.07874	A Unified Approach to Interpreting Model Predictions
+1703.01365	Axiomatic Attribution for Deep Networks
+1609.02907	Semi-Supervised Classification with Graph Convolutional Networks
+1706.02216	Inductive Representation Learning on Large Graphs
+1710.10903	Graph Attention Networks
+1810.00826	How Powerful are Graph Neural Networks?
+1607.00653	node2vec: Scalable Feature Learning for Networks
+1403.6652	DeepWalk: Online Learning of Social Representations
+1301.3781	Efficient Estimation of Word Representations in Vector Space
+1310.4546	Distributed Representations of Words and Phrases and their Compositionality
+1802.05365	Deep contextualized word representations
+1503.02531	Distilling the Knowledge in a Neural Network
+1312.5602	Playing Atari with Deep Reinforcement Learning
+1509.06461	Deep Reinforcement Learning with Double Q-learning
+1511.06581	Dueling Network Architectures for Deep Reinforcement Learning
+1707.06347	Proximal Policy Optimization Algorithms
+1502.05477	Trust Region Policy Optimization
+1801.01290	Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+1509.02971	Continuous control with deep reinforcement learning
+1602.01783	Asynchronous Methods for Deep Reinforcement Learning
+1710.02298	Rainbow: Combining Improvements in Deep Reinforcement Learning
+1908.07442	TabNet: Attentive Interpretable Tabular Learning
+2106.11959	Revisiting Deep Learning Models for Tabular Data
+2207.08815	Why do tree-based models still outperform deep learning on typical tabular data?
+2207.01848	TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second
+1703.06114	Deep Sets
+1612.01474	Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
+1506.02142	Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
+1708.07120	Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates
+1908.03265	On the Variance of the Adaptive Learning Rate and Beyond
+1907.08610	Lookahead Optimizer: k steps forward, 1 step back
+1502.01852	Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
+1606.08415	Gaussian Error Linear Units (GELUs)
+1710.05941	Searching for Activation Functions
+1710.10196	Progressive Growing of GANs for Improved Quality, Stability, and Variation
+1812.04948	A Style-Based Generator Architecture for Generative Adversarial Networks
+1912.04958	Analyzing and Improving the Image Quality of StyleGAN
+1406.5298	Semi-Supervised Learning with Deep Generative Models
+1606.03498	Improved Techniques for Training GANs
+1308.0850	Generating Sequences With Recurrent Neural Networks
+1409.1259	Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
+1410.3916	Memory Networks
+1503.08895	End-To-End Memory Networks
+1901.02860	Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
+1906.08237	XLNet: Generalized Autoregressive Pretraining for Language Understanding
+2006.04768	Linformer: Self-Attention with Linear Complexity
+2009.14794	Rethinking Attention with Performers
+2001.04451	Reformer: The Efficient Transformer
+2004.05150	Longformer: The Long-Document Transformer
+2007.14062	Big Bird: Transformers for Longer Sequences
+2203.00555	DeepNet: Scaling Transformers to 1,000 Layers
+1909.11942	ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+1910.01108	DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter
+2003.10555	ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+2305.13048	RWKV: Reinventing RNNs for the Transformer Era
+2312.00752	Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+2405.21060	Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
+2307.08621	Retentive Network: A Successor to Transformer for Large Language Models
+2101.03961	Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
+1701.06538	Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
+2112.06905	Scaling Language Models: Methods, Analysis and Insights from Training Gopher
+2001.08361	Scaling Laws for Neural Language Models
+2206.07682	Emergent Abilities of Large Language Models
+1711.05101	Decoupled Weight Decay Regularization
